@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		CE87427424C9951D008F5636 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE87427324C9951D008F5636 /* AppDelegate.swift */; };
-		CE87427624C9951D008F5636 /* art.scnassets in Resources */ = {isa = PBXBuildFile; fileRef = CE87427524C9951D008F5636 /* art.scnassets */; };
 		CE87427824C9951D008F5636 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE87427724C9951D008F5636 /* ViewController.swift */; };
 		CE87427B24C9951D008F5636 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE87427924C9951D008F5636 /* Main.storyboard */; };
 		CE87427D24C99520008F5636 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CE87427C24C99520008F5636 /* Assets.xcassets */; };
@@ -19,7 +18,6 @@
 /* Begin PBXFileReference section */
 		CE87427024C9951D008F5636 /* MagicPaper.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MagicPaper.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE87427324C9951D008F5636 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		CE87427524C9951D008F5636 /* art.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = art.scnassets; sourceTree = "<group>"; };
 		CE87427724C9951D008F5636 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		CE87427A24C9951D008F5636 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		CE87427C24C99520008F5636 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -60,7 +58,6 @@
 			children = (
 				CE87428724C9958A008F5636 /* arai.mp4 */,
 				CE87427324C9951D008F5636 /* AppDelegate.swift */,
-				CE87427524C9951D008F5636 /* art.scnassets */,
 				CE87427724C9951D008F5636 /* ViewController.swift */,
 				CE87427924C9951D008F5636 /* Main.storyboard */,
 				CE87427C24C99520008F5636 /* Assets.xcassets */,
@@ -128,7 +125,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CE87427624C9951D008F5636 /* art.scnassets in Resources */,
 				CE87428024C99520008F5636 /* LaunchScreen.storyboard in Resources */,
 				CE87427D24C99520008F5636 /* Assets.xcassets in Resources */,
 				CE87428824C9958A008F5636 /* arai.mp4 in Resources */,

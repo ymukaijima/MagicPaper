@@ -71,7 +71,7 @@ class ViewController: UIViewController, ARSCNViewDelegate {
             videoNode.position = CGPoint(x: videoScene.size.width / 2, y: videoScene.size.height / 2)
             
             //videoが逆さまにならないように調整
-            videoNode.yScale = -1.0
+            videoNode.yScale                          = -1.0
             
             videoScene.addChild(videoNode)
             
